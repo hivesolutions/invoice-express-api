@@ -34,5 +34,4 @@ class API(
         kwargs = None
     ):
         auth = kwargs.pop("auth", True)
-        print(self.key)
         if auth: params["api_key"] = self.key
