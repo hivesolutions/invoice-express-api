@@ -1,0 +1,8 @@
+*.pyc
+*.debug
+
+session.shelve*
+
+/dist
+/build
+/src/invoice_express_api.egg-info
