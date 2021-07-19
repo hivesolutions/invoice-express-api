@@ -15,8 +15,7 @@ Invoice Express API is currently licensed under the [Apache License, Version 2.0
 
 ## Build Automation
 
-[![Build Status](https://travis-ci.com/hivesolutions/invoice_express_api.svg?branch=master)](https://travis-ci.com/hivesolutions/invoice_express_api)
-[![Build Status GitHub](https://github.com/hivesolutions/invoice_express_api/workflows/Main%20Workflow/badge.svg)](https://github.com/hivesolutions/invoice_express_api/actions)
+[![Build Status](https://github.com/hivesolutions/invoice_express_api/workflows/Main%20Workflow/badge.svg)](https://github.com/hivesolutions/invoice_express_api/actions)
 [![Coverage Status](https://coveralls.io/repos/hivesolutions/invoice_express_api/badge.svg?branch=master)](https://coveralls.io/r/hivesolutions/invoice_express_api?branch=master)
 [![PyPi Status](https://img.shields.io/pypi/v/invoice_express_api.svg)](https://pypi.python.org/pypi/invoice_express_api)
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://www.apache.org/licenses/)
