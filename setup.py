@@ -6,7 +6,7 @@ import setuptools
 
 setuptools.setup(
     name = "invoice_express_api",
-    version = "0.1.4",
+    version = "0.1.0",
     author = "Hive Solutions Lda.",
     author_email = "development@hive.pt",
     description = "Invoice Express API Client",
