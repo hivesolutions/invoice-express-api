@@ -5,4 +5,4 @@ session.shelve*
 
 /dist
 /build
-/src/invoice_express_api.egg-info
+/src/invoice-express-api.egg-info

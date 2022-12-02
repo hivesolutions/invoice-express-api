@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>invoice_express_api</name>
+	<name>invoice-express-api</name>
 	<comment></comment>
 	<projects>
 		<project>appier</project>
